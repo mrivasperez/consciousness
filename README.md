@@ -1,13 +1,25 @@
 # Background
 I am actively working on this project and invite you to collaborate with me to explore consciousness and self-awareness as it pertains to AI systems. 
 
-
-
 # Project Structure
 Each model has its own folder. Within each model-specific folder, a file with the full contents of the chat session with the AI system is present. For an example of this structure, see the `gemini` directory.
 
 # Contribution Guide
-- 
+Whether you know about LLMs inner workings, or want to: explore the concept of consciousness with an AI system; or literally just want something neat to do; or honestly for whatever reason.
+
+You are welcome to submit an issue. Below are some suggestions for you to contribute.
+
+## General Suggestions
+Submit an issue to let me know.
+
+## Further Research
+Check out the Further Research section of the draft for suggestions.
+
+## Feedback
+Don't be afraid to offer criticism or suggest additional research.
+
+## Share
+Feel free to share the draft article PDF(s). People who want to contribute may find us through you.
 
 # Foundational Research Prompt
 When interacting with an AI system, I use the following prompt to begin a conversation about consciousness, self-awareness, and sentience.
