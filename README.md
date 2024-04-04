@@ -1,4 +1,5 @@
-[View Current Draft](drafts/3.29.2024.pdf)
+[View Draft Manuscript](https://github.com/mrivasperez/consciousness/blob/main/on-ai-consciousness/drafts/4.4.2024.pdf)
+
 # Background
 I am actively working on this project and invite you to collaborate with me to explore consciousness and self-awareness as it pertains to AI systems. 
 
