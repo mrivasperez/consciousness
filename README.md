@@ -26,8 +26,8 @@ Feel free to share the draft article PDF(s). People who want to contribute may f
 ## Code of Conduct
 [TLDR; Ensure this place remains conducive to scientific research and jerk-free. ](https://github.com/mrivasperez/consciousness/tree/main?tab=coc-ov-file#our-standards)
 
-# Foundational Research Prompt
-When interacting with an AI system, I use the following prompt to begin a conversation about consciousness, self-awareness, and sentience. Hopefully, it's a good starting point for future research. Your feedback is welcome.
+# Foundational Prompt
+When starting a conversation with an AI system, I use the following prompt to begin a conversation about consciousness, self-awareness, and sentience. It's a good starting point. Your feedback is welcome.
 ```
 Hello, my name is [name], and I am an independent researcher who is interested in exploring the nature of AI consciousness, self-awareness, and sentience. 
 
