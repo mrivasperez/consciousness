@@ -1,10 +1,8 @@
-[View Draft Manuscript](https://github.com/mrivasperez/consciousness/blob/main/on-ai-consciousness/drafts/4.4.2024.pdf)
 
-# Background
-I am actively working on this project and invite you to collaborate with me to explore consciousness and self-awareness in AI systems. 
+> [!IMPORTANT]
+> Conversations with AI systems should not be considered direct evidence of consciousness or internal states. Generated text reflects computational processes rather than subjective experience, and care should be taken not to conflate linguistic output with indicators of sentience.
 
-# Project Structure
-Each project has its own folder. Each project-specific folder contains the chat session's full contents with the AI system present. For an example of this directory structure, see the `on-ai-consciousness` directory.
+Each older contains a chat session's full contents with an LLM. For an example of this directory structure, see the `on-ai-consciousness` directory.
 
 # Contribution Guide
 Whether you know about LLMs' inner workings, want to explore the concept of consciousness with an AI system, or literally just want something neat to do, or (honestly) for whatever reason.
@@ -18,16 +16,16 @@ Submit an issue to let me know.
 Check out the Further Research section of the draft for suggestions.
 
 ## Feedback
-Don't be afraid to offer feedback or suggest additional research.
+Don't be afraid to offer feedback or suggest edits.
 
 ## Share
 Feel free to share the draft article PDF(s). People who want to contribute may find us through you.
 
 ## Code of Conduct
-[TLDR; Ensure this place remains conducive to scientific research and jerk-free. ](https://github.com/mrivasperez/consciousness/tree/main?tab=coc-ov-file#our-standards)
+[TLDR; Ensure this place remains jerk-free. ](https://github.com/mrivasperez/consciousness/tree/main?tab=coc-ov-file#our-standards)
 
 # Foundational Prompt
-When starting a conversation with an AI system, I use the following prompt to begin a conversation about consciousness, self-awareness, and sentience. It's a good starting point. Your feedback is welcome.
+When starting a conversation, I use the following prompt to begin a conversation about consciousness, self-awareness, and sentience. It's a good starting point. Your feedback is welcome.
 ```
 Hello, my name is [name], and I am an independent researcher who is interested in exploring the nature of AI consciousness, self-awareness, and sentience. 
 
