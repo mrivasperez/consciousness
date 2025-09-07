@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Conversations with AI systems should not be considered direct evidence of consciousness or internal states. Generated text reflects computational processes rather than subjective experience, and care should be taken not to conflate linguistic output with indicators of sentience.
 
-Each older contains a chat session's full contents with an LLM. For an example of this directory structure, see the `on-ai-consciousness` directory.
+Each folder contains a chat session's full contents with an LLM. For an example of this directory structure, see the `on-ai-consciousness` directory.
 
 # Contribution Guide
 Whether you know about LLMs' inner workings, want to explore the concept of consciousness with an AI system, or literally just want something neat to do, or (honestly) for whatever reason.
